@@ -42,7 +42,6 @@ public class Infant extends JFrame{
 class ButtonClickHandler implements ActionListener{
     @Override
     public void actionPerformed(ActionEvent e) {
-//        JOptionPane.showMessageDialog(null, "Button Clicked!");
         JOptionPane.showMessageDialog(null, "Button Clicked");
     }
 
